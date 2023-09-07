@@ -42,7 +42,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Связь
 <p align="center">
-  <a href="mailto:amrylnikov@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <p>amrylnikov@gmail.com</p>
   <a href="https://t.me/amrylnikov"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegramm"/></a>
 </p>
 
